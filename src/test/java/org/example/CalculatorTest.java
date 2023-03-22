@@ -13,4 +13,9 @@ public class CalculatorTest {
         int res = Calculator.calc(3,3);
         Assertions.assertEquals(6,res);
     }
+
+    @Test
+    void IFailMuHAHAHAHAHA(){
+        Assertions.assertEquals(1,0);
+    }
 }
